@@ -1,2 +1,6 @@
 # oatmeal-personified
-organizes wallpapers and memes
+###### an inspired meme and wallpaper manager
+
+organizes my 5k+ wallpapers and various memes
+
+**wow**
